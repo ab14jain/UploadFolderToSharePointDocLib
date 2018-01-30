@@ -1,0 +1,16 @@
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\bin\Debug\UploadFolderToSharePointDocLib.exe.config
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\bin\Debug\UploadFolderToSharePointDocLib.exe
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\bin\Debug\UploadFolderToSharePointDocLib.pdb
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\UploadFolderToSharePointDocLib.csprojResolveAssemblyReference.cache
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\MainWindow.g.cs
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\App.g.cs
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\UploadFolderToSharePointDocLib_MarkupCompile.cache
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\UploadFolderToSharePointDocLib_MarkupCompile.lref
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\MainWindow.baml
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\UploadFolderToSharePointDocLib.g.resources
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\UploadFolderToSharePointDocLib.Properties.Resources.resources
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\UploadFolderToSharePointDocLib.csproj.GenerateResource.Cache
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\UploadFolderToSharePointDocLib.exe
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\obj\Debug\UploadFolderToSharePointDocLib.pdb
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\bin\Debug\Microsoft.SharePoint.Client.dll
+c:\users\abhishek.jain\documents\visual studio 2015\Projects\UploadFolderToSharePointDocLib\UploadFolderToSharePointDocLib\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
